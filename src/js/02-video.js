@@ -1,5 +1,5 @@
 import Player from '@vimeo/player';
-import { throttle } from 'lodash';
+
 
 const STORAGE_TIME = 'videoplayer-current-time';
 const saveTime = JSON.parse(localStorage.getItem(STORAGE_TIME)) || 0;
