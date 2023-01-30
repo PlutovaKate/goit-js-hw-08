@@ -29,7 +29,7 @@ new SimpleLightbox('.gallery a', {
   captionType: 'attr',
   captionsData: 'alt',
   captionPosition: 'bottom',
-  captionDelay: 260,
+  captionDelay: 250,
 });
 
 console.log(galleryItems);
