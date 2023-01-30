@@ -22,5 +22,3 @@ jobs:
           branch: gh-pages
           folder: dist
 
-permissions:
-contents: write
